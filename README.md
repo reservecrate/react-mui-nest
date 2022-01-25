@@ -1,1 +1,1 @@
-This is a simple React + MUI + NestJS project starter pack. Feel free to use it in your projects.
+This is a simple React + MUI + NestJS project starter pack. Feel free to bootstrap it into your projects.
